@@ -227,3 +227,6 @@ logs/
 
 # temporary files:
 ml-latest-small*
+
+trash/
+tempURLNET/
