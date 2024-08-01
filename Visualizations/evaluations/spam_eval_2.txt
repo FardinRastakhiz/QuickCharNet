@@ -1,0 +1,18 @@
+classification report: 
+               precision    recall  f1-score   support
+
+           0     0.9882    0.9796    0.9839      2059
+           1     0.9796    0.9882    0.9839      2037
+
+    accuracy                         0.9839      4096
+   macro avg     0.9839    0.9839    0.9839      4096
+weighted avg     0.9839    0.9839    0.9839      4096
+
+confusion matrix:
+ tensor([[2017,   42],
+        [  24, 2013]])
+================================
+
+Number of URLs detected as spam: 2450
+Average position of URLs detected as spam: 5.516734600067139
+Average position of URLs detected as ham: 5.492434978485107
