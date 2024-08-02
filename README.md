@@ -39,18 +39,6 @@ This project is part of [QuickCharNet](). This project explores the use of deep 
 
 **_requirements.txt_**: Use this file to install required packages.
 
-```bash
-# Example:
-torch==1.9.0
-numpy==1.21.0
-pandas==1.3.0
-```
-
-## Example:
-
-python scripts/train.py --data_dir=data/ --model_dir=models/ --epochs=10
-python scripts/evaluate.py --data_dir=data/ --model_dir=models/
-
 ## Citation
 
 ```bibtext
