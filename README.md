@@ -44,3 +44,6 @@ This project is part of [QuickCharNet](). This project explores the use of deep 
 ```bibtext
 @article{rastakhiz2024quick,}
 ```
+
+## License
+For detailed licensing information, please see the [LICENSE.md](LICENSE.md) file.
