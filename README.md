@@ -46,4 +46,4 @@ This project is part of [QuickCharNet](). This project explores the use of deep 
 ```
 
 ## License
-For detailed licensing information, please see the [LICENSE.md](LICENSE.md) file.
+For detailed licensing information, please see the [LICENSE](LICENSE) file.
