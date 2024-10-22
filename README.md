@@ -42,7 +42,13 @@ This project is part of [QuickCharNet](). This project explores the use of deep 
 ## Citation
 
 ```bibtext
-@article{rastakhiz2024quick,}
+@article{rastakhiz2024quick,
+  title={QuickCharNet: An Efficient URL Classification Framework for Enhanced Search Engine Optimization},
+  author={Rastakhiz, Fardin and Eftekhari, Mahdi and Vahdati, Sahar},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## License
