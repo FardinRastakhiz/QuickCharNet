@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of [QuickCharNet](). This project explores the use of deep learning techniques, specifically character-level Convolutional Neural Networks (CNNs), for URL classification. The goal is to classify URLs based on their appearance, which can be used for SEO optimization. to
+This project is part of [QuickCharNet](https://ieeexplore.ieee.org/document/10729268). This project explores the use of deep learning techniques, specifically character-level Convolutional Neural Networks (CNNs), for URL classification. The goal is to classify URLs based on their appearance, which can be used for SEO optimization. to
 
 ## Project Structure
 
