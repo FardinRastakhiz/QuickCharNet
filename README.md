@@ -12,10 +12,7 @@ This project is part of [QuickCharNet](https://ieeexplore.ieee.org/document/1072
 - **TestsOnMaliciousURLs/**: Contains Jupyter notebooks for testing and comparing the model against state-of-the-art models using the Malicious URLs dataset.
 - **TestsOnPhishStorm/**: Contains Jupyter notebooks for testing and comparing the model against state-of-the-art models using the PhishStorm dataset.
 - **TestsOnSpamURLs/**: Contains Jupyter notebooks for testing and comparing the model against state-of-the-art models using the Spam dataset.
-- **Visualizations/**: Python scripts for training, evaluation, and preprocessing.
-- **Visualizations/evaluations**: Python scripts for training, evaluation, and preprocessing.
-- **Visualizations/visualization_records**: Python scripts for training, evaluation, and preprocessing.
-
+- **Visualizations/**: Python scripts to show how models work include evaluations and how they create their outputs.
 ## Methodology
 
 ### Data Collection
