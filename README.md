@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of [QuickCharNet](https://ieeexplore.ieee.org/document/10729268). This project explores the use of deep learning techniques, specifically character-level Convolutional Neural Networks (CNNs), for URL classification. The goal is to classify URLs based on their appearance, which can be used for SEO optimization.
+This project is part of [Quick Char Net](https://ieeexplore.ieee.org/document/10729268). This project explores the use of deep learning techniques, specifically character-level Convolutional Neural Networks (CNNs), for URL classification. The goal is to classify URLs based on their appearance, which can be used for SEO optimization.
 
 ## Project Structure
 
@@ -15,24 +15,10 @@ This project is part of [QuickCharNet](https://ieeexplore.ieee.org/document/1072
 - **Visualizations/**: Python scripts to show how models work include evaluations and how they create their outputs.
 ## Methodology
 
-### Data Collection
+### QuickCharNet Architecture
+<img alt="The model architecture" src="Model1Architecture2.jpg">
 
-- **Source**: Describe the source(s) of your dataset.
-- **Preprocessing**: Explain the preprocessing steps, including any data cleaning, normalization, and tokenization.
-
-### Model Architecture
-
-- **Character-Level CNN**: Outline the architecture of your model, including the number of layers, kernel sizes, and activation functions.
-
-### Training
-
-- **Loss Function**: Describe the loss function used.
-- **Optimizer**: Mention the optimizer and its parameters.
-- **Training Procedure**: Include details about the training process, such as batch size, number of epochs, and any regularization techniques used.
-
-## Implementation
-
-### Dependencies
+## Dependencies
 
 **_requirements.txt_**: Use this file to install required packages.
 
@@ -50,3 +36,5 @@ This project is part of [QuickCharNet](https://ieeexplore.ieee.org/document/1072
 
 ## License
 For detailed licensing information, please see the [LICENSE](LICENSE) file.
+
+QuickCharNet, Quick Char Net, Convolutional Neural Network, URL classification, Spam Detection, Search Engine Optimization
