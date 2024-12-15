@@ -25,13 +25,16 @@ This project is part of [Quick Char Net](https://ieeexplore.ieee.org/document/10
 ## Citation
 
 ```bibtext
-@article{rastakhiz2024quick,
-  title={QuickCharNet: An Efficient URL Classification Framework for Enhanced Search Engine Optimization},
+@ARTICLE{rastakhiz2024quick,
   author={Rastakhiz, Fardin and Eftekhari, Mahdi and Vahdati, Sahar},
-  journal={IEEE Access},
+  journal={IEEE Access}, 
+  title={QuickCharNet: An Efficient URL Classification Framework for Enhanced Search Engine Optimization}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={12},
+  number={},
+  pages={156965-156979},
+  keywords={Search engines;Uniform resource locators;Optimization;Machine learning;Web pages;Text categorization;Accuracy;Semantics;Analytical models;Phishing;Convolutional neural networks;Deep learning;Ranking (statistics);Convolutional neural networks;deep learning;malicious URL detection;text classification;web page ranking},
+  doi={10.1109/ACCESS.2024.3484578}}
 ```
 
 ## License
