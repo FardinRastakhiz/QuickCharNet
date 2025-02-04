@@ -17,7 +17,9 @@ This project is part of [Quick Char Net](https://ieeexplore.ieee.org/document/10
 
 ### QuickCharNet Architecture
 <img alt="The model architecture" src="Model1Architecture2.jpg">
+
 ***A brief explanation of the seed (here, 911):***
+
 This model, like many others, works best with a specific initial state. Experimentally, it performed best using the fixed initial state with seed 911, although you might, theoretically or experimentally, find a better fixed or random initial state. The initial state 911 worked well with various datasets and learning conditions—not just under a single human-engineered condition.
 
 ## Dependencies
