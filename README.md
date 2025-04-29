@@ -45,3 +45,7 @@ This model, like many others, works best with a specific initial state. Experime
 For detailed licensing information, please see the [LICENSE](LICENSE) file.
 
 QuickCharNet, Quick Char Net, Convolutional Neural Network, URL classification, Spam Detection, Search Engine Optimization
+
+## Support & Contributions  
+Have questions, feedback, or ideas to improve this project? Reach out via:  
+- **Telegram**: [@FardinRastakhiz](https://t.me/FardinRastakhiz)  
