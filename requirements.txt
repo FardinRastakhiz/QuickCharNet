@@ -8,7 +8,7 @@ pandas==2.2.0
 matplotlib==3.8.2
 matplotlib-inline==0.1.6
 captum==0.7.0
-transformers==4.48.3
+transformers==4.50.0
 urllib3==2.2.2
 scikit-learn==1.5.1
 torch_scatter==2.1.2+pt23cu118
