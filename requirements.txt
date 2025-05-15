@@ -1,17 +1,17 @@
 torch==2.7.0
-lightning==2.3.3
-lightning-bolts==0.7.0
+lightning==2.5.1.post0
+# lightning-bolts==0.7.0
 lightning-utilities==0.11.6
-pytorch-lightning==2.4.0
+pytorch-lightning==2.5.1
 numpy==1.26.3
 pandas==2.2.0
 matplotlib==3.8.2
 matplotlib-inline==0.1.6
 captum==0.7.0
 transformers==4.50.0
-urllib3==2.2.2
-scikit-learn==1.5.1
-torch_scatter==2.1.2+pt23cu118
+# urllib3==2.2.2
+# scikit-learn==1.6.1 
+# torch_scatter==2.1.2+pt27cu121
 torchmetrics==1.3.0.post0
 torchsummary==1.5.1
 tqdm==4.66.4
