@@ -23,11 +23,11 @@ This project is part of [Quick Char Net](https://ieeexplore.ieee.org/document/10
 This model, like many others, works best with a specific initial state. Experimentally, it performed best using the fixed initial state with seed 911, although you might, theoretically or experimentally, find a better fixed or random initial state. The initial state 911 worked well with various datasets and learning conditions—not just under a single human-engineered condition.
 
 ## Dependencies
+> **Note:** This project is no longer maintained, as it has not received any citations. It was developed as part of a research paper. To get the most out of it, please do not rely solely on the `requirements.txt` file—update the dependencies to their latest compatible versions.
 
 **_requirements.txt_**: Use this file to install required packages.
 
 ## Citation
-
 ```bibtext
 @ARTICLE{rastakhiz2024quick,
   author={Rastakhiz, Fardin and Eftekhari, Mahdi and Vahdati, Sahar},
