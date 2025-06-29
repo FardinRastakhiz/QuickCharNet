@@ -1,4 +1,5 @@
 ## QuickCharNet: Enhancing Search Engine Optimization Using Efficient Character-Level Convolutional Network for non-optimal URL Detection
+[![DOI](https://zenodo.org/badge/837378803.svg)](https://doi.org/10.5281/zenodo.15769911)
 
 ## Introduction
 
